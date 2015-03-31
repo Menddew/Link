@@ -1,0 +1,5 @@
+This is a class for reference. The basis is the index.html file in which the first link to the css 
+file and in the body HMTL is PHP, which is referenced file our Odkaz.php. We will encourage a variable 
+set their properties. CSS file only contains the color reference. Odkaz.php includes classes for 
+reference, which preset variables and to perform their functions. From the construct to 
+the string.

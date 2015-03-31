@@ -1,0 +1,16 @@
+/** This is a file of css.css
+*  @author Lukáš Kotyk
+ * @version 0.0.1
+ * @copyright (c) 2015, Lukáš Kotyk
+*/
+/**
+* Style for link
+*/
+.odkaz{
+    color:red;
+    background-color: yellow;
+}
+
+a{
+    text-decoration: none;
+}
